@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Slim Laptop",
+    "price": 54999,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/300x200?text=Laptop"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "price": 1499,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/300x200?text=Headphones"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "price": 3999,
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/300x200?text=Watch"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "price": 19999,
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/300x200?text=Mobile"
+  }
+]
